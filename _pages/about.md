@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a third year undergraduate student at University of Science and Technology of China. My research interest includes multimodal content analysis and understanding. 
+I'm **Chenhui Jin <font face="楷体" >(金晨晖)</font>**, a third year undergraduate student at University of Science and Technology of China. My research interest includes multimodal content analysis and understanding. 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+# 🔥 News
+- *2024.04*: Created a new home page. 
 
 <!-- # 📝 Publications 
 
@@ -42,7 +44,7 @@ I'm a third year undergraduate student at University of Science and Technology o
 - *2023.12* Outstanding Student Scholarship, Grade 3. 
 
 # 📖 Educations
-- *2021.09 - now*, University of Science and Technology of China, School of Information Science and Technology.
+- *2021.09 - 2025.06 (excepted)*, School of Information Science and Technology, University of Science and Technology of China.
  
 <!-- 
 # 💬 Invited Talks
