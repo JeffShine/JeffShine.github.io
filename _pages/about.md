@@ -53,5 +53,3 @@ Hi, nice to e-meet you! I'm **Chenhui Jin <font face="楷体" >(金晨晖)</font
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-
-<a href="https://info.flagcounter.com/Lrzg"><img src="https://s01.flagcounter.com/count2/Lrzg/bg_FFFFFF/txt_000000/border_FFFFFF/columns_1/maxflags_3/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
