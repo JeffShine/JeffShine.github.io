@@ -44,7 +44,7 @@ Hi, nice to e-meet you! I'm **Chenhui Jin <font face="楷体" >(金晨晖)</font
 - *2024.01* SIMIT Scholarship. 
 
 # 📖 Educations
-- *2021.09 - 2025.06 (excepted)*, School of Information Science and Technology, University of Science and Technology of China.
+- *2021.09 - 2025.06 (expected)*, School of Information Science and Technology, University of Science and Technology of China.
  
 # 💻 Projects
 - [Jeffrey’s AI research experience as a beginner](https://jeffrey2002.notion.site/Research-704314f81f8f4028be8d0e586d4b438a)
