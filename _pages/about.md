@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, nice to e-meet you! I'm **Chenhui Jin <font face="楷体" >(金晨晖)</font>**, a fourth year undergraduate student at University of Science and Technology of China. My research interest includes Vision Language Models content analysis and understanding. 
+Hi, nice to e-meet you! I'm **Chenhui Jin <font face="楷体" >(金晨晖)</font>**, a senior at University of Science and Technology of China (USTC), under the guidance of Associate Researcher Chuanbin Liu and Professor Hongtao Xie. My research interest includes Vision-Language Models content understanding. 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
@@ -45,7 +45,8 @@ Hi, nice to e-meet you! I'm **Chenhui Jin <font face="楷体" >(金晨晖)</font
 
 # 📖 Educations
 - *2021.09 - 2025.06 (expected)*, School of Information Science and Technology, University of Science and Technology of China.
- <!-- 
+
+<!-- 
 # 💻 Projects
 - Click this [Link](https://jeffrey2002.notion.site/Research-704314f81f8f4028be8d0e586d4b438a) to view the project summary written on the Notion page :D
 
